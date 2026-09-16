@@ -41,7 +41,15 @@ print(f"hallo,{name[2].title()} are you free to meet in the evening")
 print(f"hallo,{name[-1].title()} are you free to meet in the evening")
 
 
+#exercise 3.3
+cars_name = ['maruti','honda','mg','mahindra','toyota']
+print(f"I would like to own a {cars_name[0].title()} car.")
+print(f"I would like to own a {cars_name[1].title()} car.")
+print(f"I would like to own a {cars_name[2].title()} car.")
+print(f"I would like to own a {cars_name[-1].title()} car.")
 
 
 
-
+#another exercise from my side
+cars_name = ['maruti','honda','mg','mahindra','toyota']
+print("cars_name:\nmaruti\nhonda\nmg\nmahindra\n\ttoyota")
